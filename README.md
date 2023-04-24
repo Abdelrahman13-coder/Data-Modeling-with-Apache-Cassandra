@@ -26,6 +26,8 @@ The directory of CSV files partitioned by date. Here is an examples of the filep
 ### **Resources**
 You can download the resources from the workspace Terminal using the following commands
 
-`zip -r event_data.zip event_data`
+```javascript
+zip -r event_data.zip event_data
 
-`zip -r images.zip images`
+zip -r images.zip images
+```
